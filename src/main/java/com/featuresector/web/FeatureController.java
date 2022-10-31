@@ -30,7 +30,7 @@ public class FeatureController {
   Logger log = LoggerFactory.getLogger(FeatureController.class);
   
   @Autowired
-  private FeatureService featureService;
+  private FeatureService featureService; 
   
   @PostMapping("") // this maps to -> '/products/{productId}/features'
   public String createFeature(@AuthenticationPrincipal User user, @PathVariable Long productId) {

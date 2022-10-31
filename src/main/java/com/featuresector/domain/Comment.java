@@ -40,7 +40,7 @@ public class Comment implements Comparable<Comment>
   @Column(length=5000)
   public String getText()
   {
-    return text;
+    return text; 
   }
   public void setText(String text)
   {
