@@ -9,5 +9,4 @@ public class FeaturesectorApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FeaturesectorApplication.class, args);
 	}
-
 }
