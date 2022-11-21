@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="#status" title="Status">Status</a> |
   <a href="#about" title="About">About</a> |
   <a href="#Technologies" title="Technologies">Technologies</a> |
   <a href="#Prerequisites" title="Prerequisites">Prerequisites</a> |
@@ -10,7 +11,13 @@
   <a href="#Contributions" title="Contributions">Contributions</a> 
 </p>
 
+
 <br>
+
+# Status 
+
+![94%](https://progress-bar.dev/94/?title=Done)
+<br />
 
 # About 
 - Featuresector web application allows app creators to query their users for feature suggestions.
